@@ -7,3 +7,6 @@ frog
 gorilla
 hen
 ice cream
+jail
+kangroo
+lion
