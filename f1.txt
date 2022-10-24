@@ -4,3 +4,6 @@ cat
 dog
 egg
 frog 
+gorilla
+hen
+ice cream

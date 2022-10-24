@@ -1,0 +1,2 @@
+curl -sO http://192.168.1.2:8085/jnlpJars/agent.jar
+java -jar agent.jar -jnlpUrl http://192.168.1.2:8085/computer/Ravi%5FSystem/jenkins-agent.jnlp -secret a4bd5695496f99445a8cfefaa5651d6001e3a2c5455fb4e88f2d19323ce0cd9a -workDir "C:/Jenkins"
