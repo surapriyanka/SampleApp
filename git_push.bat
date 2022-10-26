@@ -4,4 +4,3 @@ git pull
 git push
 git status
 echo Completed
-echo Ready for new changes
